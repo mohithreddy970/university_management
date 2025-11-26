@@ -12,14 +12,26 @@ This project demonstrates key C programming concepts such as structures, file ha
 Core Functionalities
 
 ➕ Add new student records (Student ID, Name, Age, Gender, Department, Year Level, Contact No)
+
+
 📋 Display all student records in a formatted table
+
+
 🔍 Search student by Student ID or Name
+
+
 ✏️ Update student information
+
 ❌ Delete student records
+
 💾 Persistent data storage using binary file (university.dat)
+
 🖥️ Fully terminal-based, menu-driven interface
+
 👨‍💻 Beginner-friendly modular C code
+
 ⚙️ Automatically creates the data file when missing
+
 ⚠️ Includes basic input validation and error handling
 
 🛠️ TECHNICAL REQUIREMENTS
